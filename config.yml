@@ -1,5 +1,5 @@
-#baseURL: "https://dnjackson.github.io/por"
 baseURL: "https://portraitsofresilience.com"
+#baseURL: "https://dnjackson.github.io/por"
 title: "Portraits of Resilience"
 paginate: 5
 theme: PaperMod

@@ -1,216 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on The Essence of Software</title>
-    <link>https://essenceofsoftware.com/</link>
-    <description>Recent content in Home on The Essence of Software</description>
+    <title>Home on Portraits of Resilience</title>
+    <link>https://portraitsofresilience.com/</link>
+    <description>Recent content in Home on Portraits of Resilience</description>
     <image>
-      <url>https://essenceofsoftware.com/eos-twitter-card.png</url>
-      <link>https://essenceofsoftware.com/eos-twitter-card.png</link>
+      <url>https://portraitsofresilience.com/por-twitter-card.png</url>
+      <link>https://portraitsofresilience.com/por-twitter-card.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Daniel Jackson</copyright>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://essenceofsoftware.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Daniel Jackson, 2022</copyright>
+    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://portraitsofresilience.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>For Want of a Nail…</title>
-      <link>https://essenceofsoftware.com/posts/missing-concept/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Truly Human with Accenture</title>
+      <link>https://portraitsofresilience.com/posts/accenture/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/missing-concept/</guid>
-      <description>When critical concepts are missing</description>
+      <guid>https://portraitsofresilience.com/posts/accenture/</guid>
+      <description>At Accenture’s Truly Human program, in their lovely studio space in the Prudential Center. I gave a talk and several senior executives talked about their own experiences of finding resilience at work.</description>
     </item>
     
     <item>
-      <title>Apps are state machines</title>
-      <link>https://essenceofsoftware.com/tutorials/concept-basics/apps-are-state-machines/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>NewTV Interview</title>
+      <link>https://portraitsofresilience.com/posts/newtv/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/concept-basics/apps-are-state-machines/</guid>
-      <description>If user experience runs deeper than the user interface, we need a way to talk about an app that isn’t just visual, and that captures behavior in a more fundamental way.
-Programmers think in terms of complicated things like objects, callbacks, streams, functionals, and so on. They’re essential for structuring code, but for behavior a much simpler model is effective.
-State machines That model is the state machine. You’ve probably come across state machines, either in a class about the theory of computation, or seeing diagrams like this:</description>
+      <guid>https://portraitsofresilience.com/posts/newtv/</guid>
+      <description>With Ellen Meyers, host of Books and Beyond. You can watch it here.</description>
     </item>
     
     <item>
-      <title>Beyond the user interface</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/beyond-ui/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>WGBH TV with Jim Braude</title>
+      <link>https://portraitsofresilience.com/posts/braude/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/beyond-ui/</guid>
-      <description>In the 1980s, there was a revolution in software. The Apple Macintosh came out (building on the invention of the WIMP interface at PARC), Don Norman wrote The Design of Everyday Things, and the first CHI conference was held.
-Now everyone knows how important user interface design is, and there’s no excuse for messing it up. You can find several collections of UI design heuristics (such as Nielsen’s) online, and many companies publish standards for how to use UI widgets consistently (here’s Google’s, for example).</description>
+      <guid>https://portraitsofresilience.com/posts/braude/</guid>
+      <description>A wonderful experience being interviewed with Haley and Cat by Jim Braude on WGBH TV’s Greater Boston. Here’s the moment just after Haley called Jim “sir” and he reacted with astonishment.</description>
     </item>
     
     <item>
-      <title>Design vs. engineering</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/design-vs-engineering/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Installation for Mental Health Month</title>
+      <link>https://portraitsofresilience.com/posts/nfl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/design-vs-engineering/</guid>
-      <description>What&amp;#39;s the difference between design and engineering?</description>
+      <guid>https://portraitsofresilience.com/posts/nfl/</guid>
+      <description>At the Newton Free Library in Newton, MA for the month of May.</description>
     </item>
     
     <item>
-      <title>Form, context &amp; misfits</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/misfits/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>PBS Newshour recording</title>
+      <link>https://portraitsofresilience.com/posts/newshour/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/misfits/</guid>
-      <description>What is a design problem? What exactly is a design problem? And why are design problems often hard to solve?
-The most compelling answer to this question, in my view, comes from Christopher Alexander in his influential book Notes on the Synthesis of Form (1964).
-Most of the book is about a way to structure goals into a tree, by noting alignments and conflicts between them, and grouping them to minimize conflicts across groups.</description>
+      <guid>https://portraitsofresilience.com/posts/newshour/</guid>
+      <description>An incredibly exciting day: the team from Newshour visited us at MIT. Here is Jeff Brown interviewing Haley, Victor and Emily in an MIT classroom with producer Anne Davenport looking on. Amazingly, Newshour gave us two segments. You can watch them here and here.</description>
     </item>
     
     <item>
-      <title>Generic fitness criteria</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/fitness-criteria/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>All Things Considered Interview</title>
+      <link>https://portraitsofresilience.com/posts/harvard/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/fitness-criteria/</guid>
-      <description>Seven criteria What makes a design fit for purpose depends—surprise!—on the purpose. But generic criteria are helpful for two reasons. First, they give you some basis for evaluation, however crude. Second, they can be used as a checklist to suggest more specific ones.
-A software product should be:
- Efficient: letting users accomplish their goals with no more steps or effort than needed; Flexible: supporting not just one fixed and narrow goal, but a range of goals that users are likely to have; Responsive: responding to requests from the user in a timely way; Understandable: behaving predictably, offering options and producing outcomes that make sense to users; Robust: tolerant of errors made by the user and other common perturbations of context, such as failures of other systems or agents to perform their expected roles; Secure: resistant to malicious attacks, including social engineering attacks that induce the user to perform unintended actions.</description>
+      <guid>https://portraitsofresilience.com/posts/harvard/</guid>
+      <description>At WBUR&amp;rsquo;s studio with Emily Tang and Victor Morales, and our host Lisa Mullins. Thanks to Lisa and her producer Lynn Jolicoeur for a wonderful interview!</description>
     </item>
     
     <item>
-      <title>How great design happens</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/great-design/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Talk and Panel at MIT Press Bookstore</title>
+      <link>https://portraitsofresilience.com/posts/mit-press/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/great-design/</guid>
-      <description>Think about your favorite product, whether it’s a photo-editing app or a toaster, and ask yourself: how did it get to be so good?
-With all the hype in the design world about creativity and brainstorming, it’s easy to imagine that great designs simply appear, out of the blue. Someone conjures up a new idea, and it just needs to be translated from sketch to product. Maybe many details need to be added, but the quality of the design was there at the start—like a tiny seed that grows spontaneously into a magnificent tree.</description>
+      <guid>https://portraitsofresilience.com/posts/mit-press/</guid>
+      <description>I gave a talk at the MIT Press Bookstore in Cambridge, and was joined in a panel discussion by Cat, Victor and Sally.</description>
     </item>
     
     <item>
-      <title>Levels of design</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/levels-of-design/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>At the bindery</title>
+      <link>https://portraitsofresilience.com/posts/bindery/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/levels-of-design/</guid>
-      <description>When you’re diagnosing a usability snag, or coming up with a new design idea, it’s helpful to know what level you’re working at.
-Over the years, designers and researchers have defined various levels, reflecting their view of design and what they emphasize.
-I find the following scheme most helpful:
- Physical. If you want to think of levels as low and high, this one is at the bottom. It’s the level of design in which you’re concerned about the physical (and physiological) qualities of human users.</description>
+      <guid>https://portraitsofresilience.com/posts/bindery/</guid>
+      <description>At WBUR&amp;rsquo;s studio with Emily Tang and Victor Morales, and our host Lisa Mullins. Thanks to Lisa and her producer Lynn Jolicoeur for a wonderful interview!</description>
     </item>
     
     <item>
-      <title>Operational Principle</title>
-      <link>https://essenceofsoftware.com/tutorials/concept-basics/operational-principle/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>At the bindery</title>
+      <link>https://portraitsofresilience.com/posts/wbur/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/concept-basics/operational-principle/</guid>
-      <description>A compelling way to explain how something works is to tell a story. Not any story, but a kind of defining story that shows, through a typical scenario, why the thing is useful and fulfills its purpose.
-The Minuteman Library Network, for example, offers a wonderful service. If I request a book, then when it becomes available at my local library, I get an email notifying me that it’s ready to be picked up.</description>
+      <guid>https://portraitsofresilience.com/posts/wbur/</guid>
+      <description>The book is almost ready! At Acme Bookbinding in Charlestown with Paul Parisi, president of Acme, and Janet Rossi, production manager of MIT Press.</description>
     </item>
     
     <item>
-      <title>Simplicity</title>
-      <link>https://essenceofsoftware.com/tutorials/design-general/simplicity/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <title>On press!</title>
+      <link>https://portraitsofresilience.com/posts/press/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/tutorials/design-general/simplicity/</guid>
-      <description>Most of us* believe that simplicity is the key to design. I’m a sucker for the best quotes about it. Here are some of my favorites. First, Tony Hoare in his Turing Award lecture lamenting the complexity of Algol-68:
-I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.</description>
-    </item>
-    
-    <item>
-      <title>Smooth Software</title>
-      <link>https://essenceofsoftware.com/posts/smooth-software/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/smooth-software/</guid>
-      <description>A How-To Guide for Removing Irregularities in Your App</description>
-    </item>
-    
-    <item>
-      <title>Design Moves for Software</title>
-      <link>https://essenceofsoftware.com/posts/design-moves/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/design-moves/</guid>
-      <description>A new way to think about concept design</description>
-    </item>
-    
-    <item>
-      <title>Facebook and Dark Patterns</title>
-      <link>https://essenceofsoftware.com/posts/facebook/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/facebook/</guid>
-      <description>Finding Clarity in Design</description>
-    </item>
-    
-    <item>
-      <title>Concept Piggybacking in DNS</title>
-      <link>https://essenceofsoftware.com/posts/dns-dkim/</link>
-      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/dns-dkim/</guid>
-      <description>How overloading in DNS brings trouble</description>
-    </item>
-    
-    <item>
-      <title>The Class Number Dilemma</title>
-      <link>https://essenceofsoftware.com/posts/class-numbers/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/class-numbers/</guid>
-      <description>A Concept Example in Everyday Life</description>
-    </item>
-    
-    <item>
-      <title>The Essence of the Essence</title>
-      <link>https://essenceofsoftware.com/posts/distillation/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/distillation/</guid>
-      <description>A short(ish) summary of the book</description>
-    </item>
-    
-    <item>
-      <title>Concept Design Sketchnote</title>
-      <link>https://essenceofsoftware.com/posts/sketchnote/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/sketchnote/</guid>
-      <description>A graphical summary of concept design ideas</description>
-    </item>
-    
-    <item>
-      <title>Design Updates in Your Mailbox</title>
-      <link>https://essenceofsoftware.com/posts/subscribe/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/subscribe/</guid>
-      <description>Join an ultra-low-volume email list to hear new ideas about concepts and design.</description>
-    </item>
-    
-    <item>
-      <title>Upvote: An Example Concept</title>
-      <link>https://essenceofsoftware.com/posts/upvote/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/upvote/</guid>
-      <description>An example of what a concept catalog entry might look like</description>
-    </item>
-    
-    <item>
-      <title>ACM tech talk</title>
-      <link>https://essenceofsoftware.com/posts/acm-tech-talk/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/acm-tech-talk/</guid>
-      <description>Now updated with talk recording.</description>
-    </item>
-    
-    <item>
-      <title>Sample book chapter</title>
-      <link>https://essenceofsoftware.com/posts/sample-chapter/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/sample-chapter/</guid>
-      <description>Why I Wrote This Book</description>
+      <guid>https://portraitsofresilience.com/posts/press/</guid>
+      <description>On press at Studley in Dalton, MA, with owner and CEO Suzanne Salinetti, master printers Jay and Scott, design manager Yasuyo Iguchi, and production manager Janet Rossi.</description>
     </item>
     
     

@@ -1,122 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Essence of Software</title>
-    <link>https://essenceofsoftware.com/posts/</link>
-    <description>Recent content in Posts on The Essence of Software</description>
+    <title>Posts on Portraits of Resilience</title>
+    <link>https://portraitsofresilience.com/posts/</link>
+    <description>Recent content in Posts on Portraits of Resilience</description>
     <image>
-      <url>https://essenceofsoftware.com/eos-twitter-card.png</url>
-      <link>https://essenceofsoftware.com/eos-twitter-card.png</link>
+      <url>https://portraitsofresilience.com/por-twitter-card.png</url>
+      <link>https://portraitsofresilience.com/por-twitter-card.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Daniel Jackson</copyright>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://essenceofsoftware.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Daniel Jackson, 2022</copyright>
+    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://portraitsofresilience.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>For Want of a Nail…</title>
-      <link>https://essenceofsoftware.com/posts/missing-concept/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Truly Human with Accenture</title>
+      <link>https://portraitsofresilience.com/posts/accenture/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/missing-concept/</guid>
-      <description>When critical concepts are missing</description>
+      <guid>https://portraitsofresilience.com/posts/accenture/</guid>
+      <description>At Accenture’s Truly Human program, in their lovely studio space in the Prudential Center. I gave a talk and several senior executives talked about their own experiences of finding resilience at work.</description>
     </item>
     
     <item>
-      <title>Smooth Software</title>
-      <link>https://essenceofsoftware.com/posts/smooth-software/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <title>NewTV Interview</title>
+      <link>https://portraitsofresilience.com/posts/newtv/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/smooth-software/</guid>
-      <description>A How-To Guide for Removing Irregularities in Your App</description>
+      <guid>https://portraitsofresilience.com/posts/newtv/</guid>
+      <description>With Ellen Meyers, host of Books and Beyond. You can watch it here.</description>
     </item>
     
     <item>
-      <title>Design Moves for Software</title>
-      <link>https://essenceofsoftware.com/posts/design-moves/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <title>WGBH TV with Jim Braude</title>
+      <link>https://portraitsofresilience.com/posts/braude/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/design-moves/</guid>
-      <description>A new way to think about concept design</description>
+      <guid>https://portraitsofresilience.com/posts/braude/</guid>
+      <description>A wonderful experience being interviewed with Haley and Cat by Jim Braude on WGBH TV’s Greater Boston. Here’s the moment just after Haley called Jim “sir” and he reacted with astonishment.</description>
     </item>
     
     <item>
-      <title>Facebook and Dark Patterns</title>
-      <link>https://essenceofsoftware.com/posts/facebook/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Installation for Mental Health Month</title>
+      <link>https://portraitsofresilience.com/posts/nfl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/facebook/</guid>
-      <description>Finding Clarity in Design</description>
+      <guid>https://portraitsofresilience.com/posts/nfl/</guid>
+      <description>At the Newton Free Library in Newton, MA for the month of May.</description>
     </item>
     
     <item>
-      <title>Concept Piggybacking in DNS</title>
-      <link>https://essenceofsoftware.com/posts/dns-dkim/</link>
-      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <title>PBS Newshour recording</title>
+      <link>https://portraitsofresilience.com/posts/newshour/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/dns-dkim/</guid>
-      <description>How overloading in DNS brings trouble</description>
+      <guid>https://portraitsofresilience.com/posts/newshour/</guid>
+      <description>An incredibly exciting day: the team from Newshour visited us at MIT. Here is Jeff Brown interviewing Haley, Victor and Emily in an MIT classroom with producer Anne Davenport looking on. Amazingly, Newshour gave us two segments. You can watch them here and here.</description>
     </item>
     
     <item>
-      <title>The Class Number Dilemma</title>
-      <link>https://essenceofsoftware.com/posts/class-numbers/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <title>All Things Considered Interview</title>
+      <link>https://portraitsofresilience.com/posts/harvard/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/class-numbers/</guid>
-      <description>A Concept Example in Everyday Life</description>
+      <guid>https://portraitsofresilience.com/posts/harvard/</guid>
+      <description>At WBUR&amp;rsquo;s studio with Emily Tang and Victor Morales, and our host Lisa Mullins. Thanks to Lisa and her producer Lynn Jolicoeur for a wonderful interview!</description>
     </item>
     
     <item>
-      <title>The Essence of the Essence</title>
-      <link>https://essenceofsoftware.com/posts/distillation/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Talk and Panel at MIT Press Bookstore</title>
+      <link>https://portraitsofresilience.com/posts/mit-press/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/distillation/</guid>
-      <description>A short(ish) summary of the book</description>
+      <guid>https://portraitsofresilience.com/posts/mit-press/</guid>
+      <description>I gave a talk at the MIT Press Bookstore in Cambridge, and was joined in a panel discussion by Cat, Victor and Sally.</description>
     </item>
     
     <item>
-      <title>Concept Design Sketchnote</title>
-      <link>https://essenceofsoftware.com/posts/sketchnote/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <title>At the bindery</title>
+      <link>https://portraitsofresilience.com/posts/bindery/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/sketchnote/</guid>
-      <description>A graphical summary of concept design ideas</description>
+      <guid>https://portraitsofresilience.com/posts/bindery/</guid>
+      <description>At WBUR&amp;rsquo;s studio with Emily Tang and Victor Morales, and our host Lisa Mullins. Thanks to Lisa and her producer Lynn Jolicoeur for a wonderful interview!</description>
     </item>
     
     <item>
-      <title>Design Updates in Your Mailbox</title>
-      <link>https://essenceofsoftware.com/posts/subscribe/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <title>At the bindery</title>
+      <link>https://portraitsofresilience.com/posts/wbur/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/subscribe/</guid>
-      <description>Join an ultra-low-volume email list to hear new ideas about concepts and design.</description>
+      <guid>https://portraitsofresilience.com/posts/wbur/</guid>
+      <description>The book is almost ready! At Acme Bookbinding in Charlestown with Paul Parisi, president of Acme, and Janet Rossi, production manager of MIT Press.</description>
     </item>
     
     <item>
-      <title>Upvote: An Example Concept</title>
-      <link>https://essenceofsoftware.com/posts/upvote/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <title>On press!</title>
+      <link>https://portraitsofresilience.com/posts/press/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://essenceofsoftware.com/posts/upvote/</guid>
-      <description>An example of what a concept catalog entry might look like</description>
-    </item>
-    
-    <item>
-      <title>ACM tech talk</title>
-      <link>https://essenceofsoftware.com/posts/acm-tech-talk/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/acm-tech-talk/</guid>
-      <description>Now updated with talk recording.</description>
-    </item>
-    
-    <item>
-      <title>Sample book chapter</title>
-      <link>https://essenceofsoftware.com/posts/sample-chapter/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://essenceofsoftware.com/posts/sample-chapter/</guid>
-      <description>Why I Wrote This Book</description>
+      <guid>https://portraitsofresilience.com/posts/press/</guid>
+      <description>On press at Studley in Dalton, MA, with owner and CEO Suzanne Salinetti, master printers Jay and Scott, design manager Yasuyo Iguchi, and production manager Janet Rossi.</description>
     </item>
     
   </channel>

@@ -1,3 +1,3 @@
-# Essence of Software
+# Portraits of Resilience
 
-This is the website for the book Essence of Software.
+This is the website for the book Portraits of Resilience.

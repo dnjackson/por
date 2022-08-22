@@ -1,6 +1,5 @@
-#baseURL: "https://dnjackson.github.io/eos"
-baseURL: "https://essenceofsoftware.com"
-title: "The Essence of Software"
+baseURL: "https://dnjackson.github.io/por"
+title: "Portraits of Resilience"
 paginate: 5
 theme: PaperMod
 copyright: "Daniel Jackson"
@@ -26,22 +25,33 @@ languages:
                 - name: Author
                   url: author/
                   weight: 5
+                - name: About
+                  url: about/
+                  weight: 2
+                - name: Blog
+                  url: posts/
+                  weight: 2
+                - name: Press
+                  url: press/
+                  weight: 2
                 - name: Buy
                   url: buy/
                   weight: 2
                 - name: Reviews
                   url: reviews/
                   weight: 3
-                - name: Q&A
-                  url: ask/
-                  weight: 1
-                - name: Goodies
-                  url: posts/
-                  weight: 6
-                - name: Subscribe
-                  url: subscribe/
-                  weight: 7
-
+                - name: Excerpts
+                  url: https://dnj.photo/projects/resilience/
+                  weight: 3
+                - name: Excerpts
+                  url: excerpts/
+                  weight: 3
+                - name: Lessons
+                  url: discoveries/
+                  weight: 3
+                - name: Postcards
+                  url: postcards/
+                  weight: 3
 
 outputs:
     home:
@@ -51,9 +61,9 @@ outputs:
 
 params:    
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "The Essence of Software: Why Concepts Matter for Great Design" # I think this appears in social cards
+    description: "Portraits of Resilience" # I think this appears in social cards
     author: Daniel Jackson
-    keywords: [essence of software, daniel jackson, software design, software, UX, design thinking, design, software engineering, programming, user interfaces]
+    keywords: [photography, psychology, resilience, depression, anxiety, mental health, students, MIT]
     
     defaultTheme: auto
     disableThemeToggle: true
@@ -66,12 +76,12 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["eos-twitter-card.png"]
+    images: ["por-twitter-card.png"]
 
     # this mode is not active
     profileMode:
         enabled: false
-        title: The Essence of Software
+        title: Portraits of Resilience
         imageUrl: "images/cover.jpg"
         imageTitle: book-cover
         imageWidth: 400

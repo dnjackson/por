@@ -4,34 +4,19 @@ layout: "home"
 url: "/about"
 ShowBreadCrumbs: false
 ---
+## How this book came to be
 
-### Why did you write this book?
+{{< figure src="../images/from-book/photo.1331-13.jpg#floatleft" width="400">}}
 
-In my career as a teacher and consultant, I've seen many good languages, tools and methods adopted. But none had the impact on software we'd hoped for. I came to realize that there's one thing that makes for great software: conceptual clarity in the design. So I've spent the last 8 years developing a practical approach to conceptual design, and this book is the result.
+In the spring of 2015, the MIT community experienced a terrible spate of suicides. Daniel Jackson, a professor of computer science and an accomplished photographer, set out to meet students, faculty and staff who were suffering from depression and anxiety and to make their portraits. The gallery of portraits, he hoped, would be a source of reassurance to others who were suffering, and would go beyond destigmatization to celebrating the resilience of those who face these challenges.
 
-<!-- 
-### Are concepts really new?
+Through the fall and following spring, he photographed a brave group of people who responded to a call for participation. Initially, his plan was to accompany each portrait by a short caption in the subject’s own words. But the stories proved so moving and compelling that they came to form portraits of a different sort, in words.
 
-In some sense, the best software designers already think in terms of concepts. But unlike other central ideas in software (such as modules or interfaces), nobody ever defined exactly what a concept is, and showed how to represent concepts and assemble them into a coherent design.
- -->
+The initial collection of stories and images were published in the MIT newspaper in the spring of 2016. Over the course of the next year, Jackson added new ones, and brought them together in a book.  
 
-### Is this a practical book or a theoretical book?
+The book includes 43 full page duotone images, complementing the portraits with stunning views of
+MIT’s architectural landmarks.
 
-It's both. I've structured it in two parts. The first is a series of short chapters, focused on examples drawn from familiar apps, which explain the key ideas and principles and show you how to apply them. The second is a collection of free-standing 'explorations' that delve more deeply into design subtleties and explain how concept design relates to everything from data abstraction to design thinking.
+## Mental health resources
 
-### Who should read it?
-
-The book is aimed at anyone who creates software—programmers, software architects, program managers and UX designers; at anyone who guides its development—VCs, CTOs, startup founders, marketers, analysts and consultants; and at all of us who would like to have a deeper understanding of the software we use every day.
-
-
-<!-- 
-### About the book
-
-As our dependence on technology increases, the design of software matters more than ever before. Why then is so much software flawed? Why hasn’t there been a systematic and scalable way to create software that is easy to use, robust, and secure?
-
-Examining these issues in depth, _The Essence of Software_ introduces a theory of software design that gives new answers to old questions. Daniel Jackson explains that a software system should be viewed as a collection of interacting concepts, breaking the functionality into manageable parts and providing a new framework for thinking about design. Through this radical and original perspective, Jackson lays out a practical and coherent path, accessible to anyone—from strategist and marketer to UX designer, architect, or programmer—for making software that is empowering, dependable, and a delight to use.
-
-Jackson explores every aspect of concepts—what they are and aren’t, how to identify them, how to define them, and more—and offers prescriptive principles and practical tips that can be applied cost-effectively in a wide range of domains. He applies these ideas to contemporary software designs, drawing examples from leading software manufacturers such as Adobe, Apple, Dropbox, Facebook, Google, Microsoft, Twitter, and others. Jackson shows how concepts let designers preserve and reuse design knowledge, rather than starting from scratch in every project.
-
-An argument against the status quo and a guide to improvement for both working designers and novices to the field, _The Essence of Software_ brings a fresh approach to software and its creation.
- -->
+If you need help, please visit the resources I've collected [here](../resources).

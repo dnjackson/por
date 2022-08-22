@@ -33,8 +33,9 @@
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }}
+<!-- DNJ: added .Reverse here to show oldest posts first in list -->
 
+{{- $paginator := .Paginate $pages.Reverse }}
 
 {{- if and .IsHome .Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}

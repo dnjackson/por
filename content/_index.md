@@ -7,10 +7,19 @@ ShowBreadCrumbs: false
 ---
 
 
-{{< figure src="images/cover.jpg#floatleft" width="400">}}
+{{< figure src="images/book/front-cover.jpg#floatleft" width="400">}}
 
-As our dependence on technology increases, the design of software matters more than ever before. Why then is so much software flawed? Why hasn’t there been a systematic and scalable way to create software that is easy to use, robust, and secure?
+*Portraits of Resilience<br>*
+*by Daniel Jackson<br>*
+*foreword by David A. Karp<br>*
+*MIT Press, 2017*
 
-Examining these issues in depth, _The Essence of Software_ introduces a theory of software design that gives new answers to old questions. Daniel Jackson shows how a software system can be viewed as a collection of interacting concepts. Through this radical and original perspective, Jackson lays out a practical path, accessible to anyone—from strategist and marketer to UX designer, architect, or programmer—for making software that is empowering, dependable, and a delight to use.
+At once a photo essay and a compendium of life stories, *Portraits of Resilience* brings us face to face with twenty-two extraordinary individuals, celebrating the wisdom they have gained on the front line of a contemporary battle.
 
-[Princeton University Press](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software) / November 2021
+With astonishing honesty and openness, they describe their experiences of depression and anxiety; how they endured their darkest moments and ultimately found purpose and meaning in their struggles. 
+
+<!---
+These wise people give us not only solace and reassurance as we face our own challenges, but also the inspiration that even apparently insurmountable challenges can be faced and sometimes overcome—and that happiness, while elusive, can eventually be found.
+--->
+
+[MIT Press](https://mitpress.mit.edu/9780262036788/portraits-of-resilience/) / November 2017

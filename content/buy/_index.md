@@ -5,33 +5,15 @@ url: "/buy"
 summary: "buy"
 ShowBreadCrumbs: false
 ---
+{{< figure src="../images/book/photo.1246-18.jpg#floatleft" width="400">}}
 
-### Where to buy
+{{< figure src="../images/book/photo.1248-18.jpg#floatleft" width="400">}}
 
-#### Sources
+**Where can I buy it?** You can buy the book at an [independent bookstore](https://bookshop.org/books/portraits-of-resilience/9780262036788) or from [Amazon](https://www.amazon.com/gp/product/0262036789/ref=as_li_tl?ie=UTF8%26camp%3D1789%26creative%3D9325%26creativeASIN%3D0262036789%26linkCode%3Das2%26tag%3Ddanieljackson-20%26linkId%3D1f73cfc0fcf2aed15b636f5dd01ddc88). The price has varied between $20 and the list price of $34.95. MIT Press offers major discounts on orders of 10 copies of more.
 
-[Princeton University Press](https://press.princeton.edu/books/hardcover/9780691225388/the-essence-of-software)  
-[Independent bookstores](https://www.indiebound.org/book/9780691225388)  
-[Amazon](https://www.amazon.com/Essence-Software-Concepts-Matter-Design/dp/0691225389)  
-[Barnes & Noble](https://www.barnesandnoble.com/w/the-essence-of-software-daniel-jackson/1139308059)  
-[Powell's](https://www.powells.com/book/the-essence-of-software-9780691225388)  
-[Amazon UK](https://www.amazon.co.uk/Essence-Software-Concepts-Matter-Design/dp/0691225389)
+**Art book quality**. 
+The book is 9" x 12", which means that it’s about as big as it can be while still easy to hold in your hands, put on a shelf or slip into a backpack. 
 
-#### Book details
+It’s a cloth-covered, Smyth-sewn hardback, printed on fabulous, thick coated matte art paper. It contains 43 full-page duotone images, and is 152 pages long.
 
-Hardcover  
-List Price: $29.95 / £25.00  
-ISBN: 9780691225388  
-Published (US): Nov 16, 2021  
-Published (UK): Jan 25, 2022  
-Copyright: 2021  
-336 pages with 84 b/w illustrations
-6.13 x 9.25 in.
-
-Kindle edition  
-ISBN: 9780691230542  
-Published: Nov 16, 2021  
-With 84 b/w illustrations
-
-
-
+**Made in Massachusetts.** The book is printed by The Studley Press in Dalton, MA, and bound by Acme in Charlestown, MA.

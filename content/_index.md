@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 ---
 
 
-{{< figure src="images/book/front-cover.jpg#floatleft" width="400">}}
+{{< figure src="images/book/front-cover.jpg#floatleft" width="450">}}
 
 *Portraits of Resilience<br>*
 *by Daniel Jackson<br>*

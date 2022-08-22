@@ -20,3 +20,12 @@ MIT’s architectural landmarks.
 ## Mental health resources
 
 If you need help, please visit the resources I've collected [here](../resources).
+
+## Supporters
+
+This book was funded in part by grants from the MIT Council for the Arts and the Innovation Fund of the MindHandHeart Initiative.
+
+![](../../images/logos/mindhandheart-smaller.png)
+
+![](../../images/logos/camit-logo.png)
+

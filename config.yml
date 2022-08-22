@@ -1,3 +1,4 @@
+#baseURL: "https://dnjackson.github.io/por"
 baseURL: "https://portraitsofresilience.com"
 title: "Portraits of Resilience"
 paginate: 5
@@ -10,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-googleAnalytics: G-WRQ6HWW3ZW
+googleAnalytics: G-JB898TF1VH
 
 minify:
     disableXML: true

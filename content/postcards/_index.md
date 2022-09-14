@@ -2,7 +2,7 @@
 title: "Postcards"
 layout: "home"
 url: "/postcards"
-aliases: "/postcard/"
+aliases: "/postcard"
 summary: "postcards"
 ShowBreadCrumbs: false
 ---
